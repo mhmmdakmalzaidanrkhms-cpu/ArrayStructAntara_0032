@@ -15,3 +15,17 @@ int main() {
     cout << "Isi data kedua setelah diubah : " << dataku[1] << endl;
 
 
+    cout << "Isi data pertama : ";
+    cin >> datamu[0];
+    cout << "Isi data kedua : ";
+    cin >> datamu[1];
+    cout << "Isi data ketiga : ";
+    cin >> datamu[2];
+    cout << "Isi data keempat : ";
+    cin >> datamu[3];
+    cout << "Isi data kelima : ";
+    cin >> datamu[4];
+    cout << endl; 
+
+    
+    //
