@@ -46,11 +46,3 @@ int main() {
     cout << endl;
 
 
-    cout << "Tampilkan data array menggunakan for" << endl;
-    //
-    for (int i = 0; i <= 4; i++)
-    {
-        cout << "data ke-" << i + 1 << " : " << datamu[i] << endl;
-    }   
-
-}
