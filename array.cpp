@@ -36,3 +36,21 @@ int main() {
     cout << "data kelima : " << datamu[4] << endl;
     cout << endl;
 
+    cout << "Input Array Menggunakan for" << endl;
+    //
+    for (int i = 0; i <= 4; i++)
+    {
+        cout << "Isi data ke-" << i + 1 << " : ";
+        cin >> datamu[i];
+    }
+    cout << endl;
+
+
+    cout << "Tampilkan data array menggunakan for" << endl;
+    //
+    for (int i = 0; i <= 4; i++)
+    {
+        cout << "data ke-" << i + 1 << " : " << datamu[i] << endl;
+    }   
+
+}
